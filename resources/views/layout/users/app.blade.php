@@ -16,7 +16,7 @@
 
 
 
-    <title>{{ config('app.name') }} || Users || @yield('title') </title>
+    <title>{{ config('app.name') }} · Users · @yield('title') </title>
      <link rel="stylesheet" href="{{ asset('vitecss/css/swiper-bundle.min.css') }}">
     <script src="{{ asset('vitecss/js/swiper-bundle.min.js') }}"></script>
      @include('components.utilities',[

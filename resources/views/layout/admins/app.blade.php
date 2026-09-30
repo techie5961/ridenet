@@ -21,7 +21,7 @@
 @stack('css')
 {{-- yield js --}}
     @yield('js')
-    <title>{{ config('app.name') }} || Admins || @yield('title') </title>
+    <title>{{ config('app.name') }} · Admins · @yield('title') </title>
 
     <style>
         

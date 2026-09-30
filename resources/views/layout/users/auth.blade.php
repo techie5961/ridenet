@@ -19,7 +19,7 @@
   ])
 {{-- yield css --}}
      @yield('css')
-    <title>{{ config('app.name') }} || Users || @yield('title') </title>
+    <title>{{ config('app.name') }} · Users · @yield('title') </title>
     <style>
         main{
             display:flex;

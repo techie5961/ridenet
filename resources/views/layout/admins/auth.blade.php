@@ -19,7 +19,7 @@
 ])
 {{-- yield css --}}
      @yield('css')
-    <title>{{ config('app.name') }} || Admins || @yield('title') </title>
+    <title>{{ config('app.name') }} · Admins · @yield('title') </title>
 </head>
 <body>
     {{-- include general codes --}}

@@ -4,7 +4,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <title>RideNet · Coupon Checker.</title>
-    <link rel="icon" type="image/png" href="#">
+       {{-- include meta tags --}}
+   @include('components.utilities',[
+    'meta_tags' => true
+   ])
+{{-- include favicon --}}
+@include('components.utilities',[
+    'favicon' => true
+])
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.2.0/remixicon.min.css">
     <link href="{{ asset('vitecss/fonts/fonts/fonts.css?v=20.4') }}" rel="stylesheet">
     <link href="{{ asset('vitecss/css/app.min.css?v=20.4') }}" rel="stylesheet">
