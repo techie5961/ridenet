@@ -1,0 +1,14 @@
+[
+    {
+        "key" : "main_balance",
+        "name" : "Ride Hunt",
+        "class" : "general"
+    
+    },
+     {
+        "key" : "affiliate_balance",
+        "name" : "Invitation Wallet",
+        "class" : "general"
+    
+    }
+]

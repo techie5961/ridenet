@@ -1,0 +1,118 @@
+[
+  {
+    "id": "1",
+    "name": {
+      "value": "Premium",
+      "is_number": false,
+      "currency": null
+    },
+    "country": {
+      "value": "nigeria",
+      "is_number": false,
+      "currency": null
+    },
+    "registration_fee": {
+      "value": 7500,
+      "is_number": true,
+      "currency": "NGN"
+    },
+    "invitation_reward": {
+      "value": 5500,
+      "is_number": true,
+      "currency": "NGN"
+    },
+    "instant_cashback": {
+      "value": 7000,
+      "is_number": true,
+      "currency": "NGN"
+    },
+    "indirect_invite": {
+      "value": 150,
+      "is_number": true,
+      "currency": "NGN"
+    },
+    "snap_and_earn": {
+      "value": 500,
+      "is_number": true,
+      "currency": "NGN"
+    },
+    "ride_hunt": {
+      "value": 600,
+      "is_number": true,
+      "currency": "NGN"
+    },
+    "instagram_views": {
+      "value": 1000,
+      "is_number": true,
+      "currency": "NGN"
+    },
+    "driver_connection_reward": {
+      "value": 750,
+      "is_number": true,
+      "currency": "NGN"
+    },
+    "ebook_sales": {
+      "value": 50,
+      "is_number": true,
+      "currency": null
+    }
+  },
+  {
+    "id": "2",
+    "name": {
+      "value": "Manager",
+      "is_number": false,
+      "currency": null
+    },
+    "country": {
+      "value": "nigeria",
+      "is_number": false,
+      "currency": null
+    },
+    "registration_fee": {
+      "value": 15000,
+      "is_number": true,
+      "currency": "NGN"
+    },
+    "invitation_reward": {
+      "value": 13000,
+      "is_number": true,
+      "currency": "NGN"
+    },
+    "instant_cashback": {
+      "value": 14500,
+      "is_number": true,
+      "currency": "NGN"
+    },
+    "indirect_invite": {
+      "value": 300,
+      "is_number": true,
+      "currency": "NGN"
+    },
+    "snap_and_earn": {
+      "value": 1000,
+      "is_number": true,
+      "currency": "NGN"
+    },
+    "ride_hunt": {
+      "value": 1200,
+      "is_number": true,
+      "currency": "NGN"
+    },
+    "instagram_views": {
+      "value": 2000,
+      "is_number": true,
+      "currency": "NGN"
+    },
+    "driver_connection_reward": {
+      "value": 1500,
+      "is_number": true,
+      "currency": "NGN"
+    },
+    "ebook_sales": {
+      "value": 50,
+      "is_number": true,
+      "currency": null
+    }
+  }
+]
